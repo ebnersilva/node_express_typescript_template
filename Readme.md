@@ -1,0 +1,1 @@
+To change origin git use: git remote set-url origin url_github
